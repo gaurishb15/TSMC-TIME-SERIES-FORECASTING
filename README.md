@@ -1,6 +1,3 @@
-Here is a formatted GitHub README file for your "TSMC Revenue Forecasting using Time Series Analysis" project:
-
----
 
 # TSMC Revenue Forecasting using Time Series Analysis
 
@@ -70,7 +67,3 @@ For additional information or inquiries, please contact:
 - **Email**: gaurishbansal15@gmail.com
 
 Thank you for your interest in this project! Your feedback and collaboration are greatly appreciated.
-
----
-
-Feel free to replace the repository link and any specific sections to match your needs. Let me know if you need further modifications!
